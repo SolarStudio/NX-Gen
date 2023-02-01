@@ -15,4 +15,4 @@
  
  - German - _coming soon..._
 
-## **📸Proofs📸**
+## **📸Screenshots📸**
