@@ -14,3 +14,5 @@
 ## **📑Translations📑**
  
  - German - _coming soon..._
+
+## **📸Proofs📸**
