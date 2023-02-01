@@ -1,7 +1,7 @@
 
 ##     👾NX Gen👾
 
-Discord - https://discord.gg/F6AaxA3zwg
+
 
 ## **🔥Installation🔥**
 
@@ -20,3 +20,6 @@ Discord - https://discord.gg/F6AaxA3zwg
 ## **📸Screenshots📸**
 ![image](https://user-images.githubusercontent.com/118767815/216084407-27091759-8417-4027-b820-050e72ecd2da.png)
 ![image](https://user-images.githubusercontent.com/118767815/216084659-95ef76b7-6e3f-4b51-ac0d-a65e84931b4b.png)
+
+## **🌀Socials🌀**
+[Discord](https://discord.gg/F6AaxA3zwg)<br/>
