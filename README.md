@@ -17,4 +17,4 @@
  - German - _coming soon..._
 
 ## **📸Screenshots📸**
-![image](https://user-images.githubusercontent.com/118767815/216084239-69f1c30f-b800-4843-a031-b3d848258e40.png)
+![image](https://user-images.githubusercontent.com/118767815/216084407-27091759-8417-4027-b820-050e72ecd2da.png)
