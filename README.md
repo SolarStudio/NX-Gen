@@ -1,6 +1,7 @@
 
 ##     👾NX Gen👾
 
+Discord - https://discord.gg/F6AaxA3zwg
 
 ## **🔥Installation🔥**
 
