@@ -15,7 +15,7 @@
 
 ## **📑Translations📑**
  
- - German - _coming soon..._
+ - German - _coming soon..._ **At 10 Stars comes the German version**
 
 ## **📸Screenshots📸**
 ![image](https://user-images.githubusercontent.com/118767815/216084407-27091759-8417-4027-b820-050e72ecd2da.png)
