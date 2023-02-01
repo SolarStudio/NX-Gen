@@ -10,4 +10,4 @@
 
  - To run type **python main.py**
  - Then write in how many links should be generated
- Good luck!✨
+   Good luck!✨
